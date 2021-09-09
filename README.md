@@ -2,7 +2,7 @@
 - 👀 I’m familiar with FrontEnd and BackEnd, and i am interested to learn about cloud computing and more computer security in general
 - 🌱 I’m currently doing a course in Machine learning engineering aa well as javascript
 - 🌱 I will be graduating and finishing my Computer Engineer Degree (Bachelor) winter of 2021
-- 💞️ I’m looking fprward to work and use my competence on interesting and challenging tasks, especially in a team enviorment!
+- 💞️ I’m looking forward to work and use my competence on interesting and challenging tasks, especially in a team enviorment!
 - 📫 How to reach me: silja.storkildsen@gmail.com
 
 <!---
