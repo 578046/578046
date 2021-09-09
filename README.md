@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Silja Stubhaug Torkildsen
-- 👀 I’m interested in frontend and backend, and later wants to learn cloud computing and more security
-- 🌱 I’m currently learning  Machine learning engineering and more javascript
-- 🌱 I'm finishing my computer engineer bachelor autumn 2021
-- 💞️ I’m looking to collaborate on interesting and challenging tasks where I can assist with my competence. I enjoy working in a team environment!
+- 👋 Hi, I’m Silja Stubhaug Torkildsen (21)
+- 👀 I’m familiar with FrontEnd and BackEnd, and i am interested to learn about cloud computing and more computer security in general
+- 🌱 I’m currently doing a course in Machine learning engineering aa well as javascript
+- 🌱 I will be graduating and finishing my Computer Engineer Degree (Bachelor) winter of 2021
+- 💞️ I’m looking fprward to work and use my competence on interesting and challenging tasks, especially in a team enviorment!
 - 📫 How to reach me: silja.storkildsen@gmail.com
 
 <!---
